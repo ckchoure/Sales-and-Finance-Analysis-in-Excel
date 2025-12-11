@@ -3,8 +3,8 @@
 - **Project Objective:**  
 
   1. Create a customer performance report  
-     - *Customer Net Sales Performance (PDF)*  
-     - *Market Performance vs Target (PDF)*  
+     - [Customer Net Sales Performance](https://github.com/ckchoure/Sales-and-Finance-Analysis-in-Excel/blob/main/Customer%20Performance%20Report.pdf)  
+     - [Market Performance vs Target](https://github.com/ckchoure/Sales-and-Finance-Analysis-in-Excel/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)  
 
   2. Conduct a comparison between market performance and sales targets  
 
@@ -23,9 +23,9 @@
 - **Project Objective:**  
 
   1. Create Profit and Loss (P&L) reports  
-     - *P & L By Fiscal Year (PDF)*  
-     - *P & L By Months (PDF)*  
-     - *P & L For Markets (PDF)*
+     - [P & L By Fiscal Year](https://github.com/ckchoure/Sales-and-Finance-Analysis-in-Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)  
+     - [P & L By Months](https://github.com/ckchoure/Sales-and-Finance-Analysis-in-Excel/blob/main/P%26L%20Statement%20by%20Months.pdf)  
+     - [P & L For Markets](https://github.com/ckchoure/Sales-and-Finance-Analysis-in-Excel/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
   2. Build Profit and Loss reports by markets and fiscal periods  
 
